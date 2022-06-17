@@ -10,8 +10,9 @@
 ## - Objective ♟ 
 The objective of this app was to create a site capable of helping you with the finances. The site is responsable to calculate you witdraws and your incomes, so you can keep your financial life organized, you can see it [running here](https://dtmoney-rocketseat.netlify.app/)
  
-
+<div align = "center">
 <img src="./readmeImg/example.gif" />
+</div>
 
 ## - Technologies 🚀️
 Project created on Rocketseat course using React. I also used miragejs to create a fake api so i could consume an api. for consuming the api i decided to use axios you chan check the app
